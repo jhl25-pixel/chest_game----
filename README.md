@@ -67,17 +67,10 @@ game_platform/
 | 单例模式 | UserManager |
 | 观察者模式 | 网络状态回调 |
 
-## 测试
-
-```bash
-# 运行测试
-python tests/test_game_platform.py
-```
 
 ## 文档
 
-- [设计文档](设计文档.md) - 详细设计说明
-- [UML类图](uml_class_diagram.mermaid) - 系统类图
+- [设计文档](面向对象第二阶段_设计文档.md) - 详细设计说明
 
 ## 技术栈
 
