@@ -30,11 +30,12 @@
 ```bash
 # 克隆项目
 git clone <repository-url>
-cd chess_game
 
 # 运行游戏
 python main.py
 ```
+
+或者直接执行exe文件
 
 ## 项目结构
 
